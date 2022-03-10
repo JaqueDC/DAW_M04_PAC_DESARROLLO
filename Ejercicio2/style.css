@@ -1,0 +1,36 @@
+h1 {
+    background-color: #00aeef;
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: Comic;
+    src:url(Fuentes/ComicSansMS3.ttf);
+}
+
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Comic {
+    font-family: Comic;
+}
+
+.Georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Times {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
